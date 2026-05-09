@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "스텔라이브 멤버들의 정보를 json방식으로 보여주는 API입니다.",
   "license": "ISC",
-  "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "stellar_info.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node stellar_info.js"
   },
   "dependencies": {
     "express": "^5.2.1"
-  },
-  "devDependencies": {}
+  }
 }
