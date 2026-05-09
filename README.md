@@ -30,7 +30,7 @@
    node stellar_info.js
    ```
 
-## 🛠 사용방법
+## 🛠 End Point
 - api/stellar/all : 전체 멤버 정보 호출
 - api/stellar/everys : 에버리스 멤버 정보 호출
 - api/stellar/universe : 유니버스 멤버 정보 호출
@@ -48,7 +48,7 @@
 - api/stellar/riko : 리코 정보 호출
 
 
-## 🤝 Contributing
+## 🤝 Contact
 이메일: <pn_nadeveloper@daum.net>
 
 X: [@Pn_nadeveloper](https://x.com/Pn_nadeveloper)
