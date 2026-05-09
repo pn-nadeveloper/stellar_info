@@ -2,9 +2,11 @@
 스텔라이브 멤버들의 정보를 json방식으로 보여주는 API입니다.
 
 ## 📸 ScreenShots
-![API 요청 화면](/img/1.png)![API 요청 화면](/img/2.png)
+![API 요청 화면](/img/1.png)
+![API 요청 화면](/img/2.png)
 
-![API 요청 화면](/img/3.png)![API 요청 화면](/img/4.png)
+![API 요청 화면](/img/3.png)
+![API 요청 화면](/img/4.png)
 
 ![API 요청 화면](/img/5.png)
 
