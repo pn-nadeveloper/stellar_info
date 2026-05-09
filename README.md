@@ -3,9 +3,11 @@
 
 ## 📸 ScreenShots
 ![API 요청 화면](/img/1.png)
+
 ![API 요청 화면](/img/2.png)
 
 ![API 요청 화면](/img/3.png)
+
 ![API 요청 화면](/img/4.png)
 
 ![API 요청 화면](/img/5.png)
